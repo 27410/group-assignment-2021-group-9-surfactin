@@ -12,8 +12,11 @@
 > Good luck!
 
 ## Project summary (<300 words)
-Describe the overall aim of your project and what you have achieved.
+Category II 
+Describe the overall aim of your project and what you have achieved. <- remove 
+The aim of the project is to evalulate surfactin production in Bacillus subtillis. For this purpose 4 surfactin reactions have been added to an already known GSM of B. subtillis s. 168. After surfactin knock-in, different strategies for getting a higher yield have been tested. This includes changing carbon source, upregulation of genes that effect yield, and co-factor swap. 
+
 
 ## Project overview
 Describe how your project is organized ...
-
+Each assessment has its own file. 
