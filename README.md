@@ -2,19 +2,21 @@
 
 # 27410 - Group assignment - Group 9 - Surfactin production in Bacillus subtilis
 
-> For this to work you will also have to keep `requirements.txt` up to date (by running `pip freeze > requirements.txt`).
-> Furthermore, this will only work if you decide to make your repository public (which you can do under Settings -> Options)
-> not sure about the whole requirements thing - but everything else has been done so ive removed it
-
-
 ## Project summary (<300 words)
-Category II 
-> Describe the overall aim of your project and what you have achieved. <- remove 
-
-The aim of this project is to evalulate surfactin production in Bacillus subtillis. For this purpose four surfactin reactions have been added to an already known GSM of B. subtillis s. 168. After surfactin knock-in, different strategies for getting a higher yield have been tested. This includes changing carbon source, upregulation of genes that effect yield, and co-factor swap. 
+The aim of this project is to evalulate surfactin production in Bacillus subtillis. For this purpose four surfactin reactions have been added to an already known GSM of B. subtillis s. 168. After surfactin knock-in, different strategies for getting a higher yield have been tested. This includes changing carbon source, upregulation of genes that effect yield found via FSEOF, and co-factor swap. 
 Phenotypic phase plans have been used to evaulate the changes in carbon source and yield calculations have been made to follow the production of surfactin throughout changes made to the model. 
+The surfactin yield at the end of the project was found as XXXXXX which is an improvement from XXXXX
 
 
 ## Project overview
-Describe how your project is organized ...
-Each assessment has its own file.
+The 'Pics' folder includes pictures used in the project.
+'Report.ipynb' has the written report to this project. 
+Under the 'Analysis' folder you can find our code, where each assessment has its own file.
+- Calculations : Includes flux and yield calculations.
+- cofactorswap : Cofactor swap analysis
+- Gene_targets : Computed gene targets for downregulation/upregulation
+- model_sucrose : Model with sucrose as carbon source. 
+- model : Model with added surfactin production.
+- Optimization_algorithms : OptKnock, Optgene
+- Phenotypic_phase_planes : PPP analysis
+- Production_pathways : Computing surfactin production pathways.
