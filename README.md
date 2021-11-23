@@ -8,7 +8,7 @@ Phenotypic phase plans have been used to evaulate the changes in carbon source a
 The surfactin yield at the end of the project was found as XXXXXX which is an improvement from XXXXX
 
 ## Project overview
-The 'Pics' folder includes pictures used in the project.
+The 'Pictures' folder includes pictures used in the project.
 'Report.ipynb' has the written report to this project. 
 Under the 'Analysis' folder you can find our code, where each assessment has its own file.
 - Calculations: Includes flux and yield calculations.
