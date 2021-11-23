@@ -12,7 +12,7 @@ The 'Pics' folder includes pictures used in the project.
 'Report.ipynb' has the written report to this project. 
 Under the 'Analysis' folder you can find our code, where each assessment has its own file.
 - Calculations: Includes flux and yield calculations.
-- cofactorswap: Cofactor swap analysis
+- Cofactorswapanalysis: Cofactor swap analysis
 - Gene_targets: Computed gene targets for downregulation/upregulation.
 - model_sucrose: Model with sucrose as carbon source. 
 - model: Model with added surfactin production.
