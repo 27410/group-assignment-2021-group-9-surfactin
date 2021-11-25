@@ -16,7 +16,16 @@ Under the 'Analysis' folder you can find our code, where each assessment has its
 - Gene_targets: Computed gene targets for downregulation/upregulation.
 - model_sucrose: Model with sucrose as carbon source. 
 - model: Model with added surfactin production.
-- Manual_knockouts: Knocking out reactions suggested by scientific papers
-- Optimization_algorithms: OptKnock and Optgene analysis.
+- Manual_knockouts: Knocking out reactions suggested by scientific papers.
+- OptKnock: Runs the OptKnock algorithm.
+- OptGene: Runs the OptGene algorithm.
 - Phenotypic_phase_planes: PPP analysis.
 - Production_pathways: Computing surfactin production pathways.
+
+
+
+FNEWJWFNWJENFJWNEF
+
+
+ERGEGER
+
